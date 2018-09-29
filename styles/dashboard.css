@@ -1,0 +1,41 @@
+.d-dashboard{
+    background-color: rgba(102,0,153,0.4);
+    width: 100%;
+    height: 80%;
+    padding: .1%;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+.nav-a{
+    background-color:rgba(102,0,153,0.5);
+    width: 10%;
+    height: 30px;
+    margin-left:8px;
+    margin-right: 10px;
+    border:none;
+    border-radius :15px;
+    font-size: 10px;
+    color: #fff;
+    text-decoration: none;
+
+}
+mark{
+  background-color: #330044;
+  border-radius: 50%;
+  color: #fff;
+  padding: 5px;
+}
+.p-holder{
+  vertical-align: middle;
+  margin-top: 15%;
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+
+}
+.count{
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
